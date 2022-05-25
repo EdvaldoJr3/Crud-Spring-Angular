@@ -21,3 +21,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+crud-angular-spring/crud-angular/.angular/cache/13.2.5/
+crud-angular-spring/crud-angular/node_modules/.cli-ngcc/fc600ced2d25ff032cd54af5364e10847b5a917ed637f776ee7a82d3a222a1a0.lock
